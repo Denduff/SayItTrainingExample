@@ -108,9 +108,10 @@
 ### Explicit Cast
 ### Implicit Cast (var variablen)
 ### Try Parsing
-## Nested Loops
-### Opbygning
-### Use Cases
+## Datatypen Enum
+### Opbygning + Default værdi - kommentar: nævn overfladisk default som koncept.
+### Tilgå og parsing
+### Tilføj en Enum til GUI, som indeholder de forskellige regnemetoder
 ## Multi Conditionals
 ### ||
 ### &&
@@ -119,9 +120,14 @@
 #### metoder / expression
 ## Nested Conditionals
 ### Hvornår kaldes de og hvorfor
-## Datatypen Enum
-### Opbygning + Default værdi - kommentar: nævn overfladisk default som koncept.
-### Tilgå og parsing
+## Endelige Opgave
+### Lav et tjek på input for at se om det er en regnemetode og tjek derefter dets tilhørende enum værdi.
+### det færdige projekt: -- Indsæt design for det færdige projekts UML
+### Evt. Manuelle test cases -> 4+6 = 10 etc.
+## Nested Loops
+### Opbygning
+### Use Cases
+## Rekursion - meget kort eksempel (show() metoden i GUI.cs)
 
 
 
