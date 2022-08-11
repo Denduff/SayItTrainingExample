@@ -52,7 +52,7 @@ ___
  #### Forskellige måder at returnere på
  ### Brug af metoder
  ### var variablen
- ### (OPGAVE 2)Omskriv Basic Calculator til at bruge metoder
+ ### (OPGAVE 2) Omskriv Basic Calculator til at bruge metoder
  #### Addition
  #### Subtraktion
  #### Multiplikation
