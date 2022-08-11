@@ -15,20 +15,20 @@
  ### Readline 
  ### Clear
  ### Afslutning af Konsol programmer
- ## Kode Opgave for Input, gem i variable -> output
+ ## (OPGAVE 1) Kode Opgave for Input, gem i variable -> output
  ## Conditional
  ### if
  ### else
  ### else if
  ### ==, != operatorer
- ### Kode Opgave for Conditional
+ ### (OPGAVE 2) Kode Opgave for Conditional
  ## Collections
  ### Array (statisk)
  ### Liste (Dynamisk) - kort intro
  ## Loops
  ### while
  ### for
- ### Kode Opgave for Loops og Collections
+ ### (OPGAVE 3) Kode Opgave for Loops og Collections
  ### foreach  - kort intro
 ___
 
@@ -43,7 +43,7 @@ ___
  ### Division
  #### float
  ##### Parsing floats
- ### Basic Calculator Opgave i Main
+ ### (OPGAVE 1) Basic Calculator Opgave i Main
  ## Metoder
  ### Hvorfor bruger vi metoder
  ### Basis opbygning
@@ -52,7 +52,7 @@ ___
  #### Forskellige måder at returnere på
  ### Brug af metoder
  ### var variablen
- ### Omskriv Basic Calculator til at bruge metoder
+ ### (OPGAVE 2)Omskriv Basic Calculator til at bruge metoder
  #### Addition
  #### Subtraktion
  #### Multiplikation
@@ -64,14 +64,14 @@ ___
  #### break
  #### default
  ### Exceptions
- ### Indkluder en switch for Calculator operatorerne i Basic Calculator
+ ### (OPGAVE 3) Indkluder en switch for Calculator operatorerne i Basic Calculator
  ## string interpolation
  ### + 
  ### $
  ### Special cases
  #### Escape characters
- ## Omskriv Basic Calculator således outputtet benytter string interpolation
- ## Mini-Quiz om emnerne
+ ## (OPGAVE 4) Omskriv Basic Calculator således outputtet benytter string interpolation
+ ## (OPGAVE 5) Mini-Quiz om emnerne
 ___
  
  
@@ -91,19 +91,19 @@ ___
 ##### Properties
 ###### Accessors {get; set;}
 ### Null og Null-References
-### Lav en Calculator Klasse med tilhørende properties.
+### (OPGAVE 1) Lav en Calculator Klasse med tilhørende properties.
 ### Metoder
 #### Navngivning af metoder
 ##### CRUD
 #### Static vs Non-Static
-### Tilføj metoderne Addition, Subtraktion, Multiplikation og Division til Calculator klassen
+### (OPGAVE 2) Tilføj metoderne Addition, Subtraktion, Multiplikation og Division til Calculator klassen
 ### Constructor
 ### Overloading
 #### Funktionalitet
 #### Limititationer
-### Let Komposition
+### kort om Komposition
 #### Klasser som datatyper og 'variabler'
-#### Lav en static GUI klasse, som indeholder en instans af Calculator klassen
+#### (OPGAVE 3) Lav en static GUI klasse, som indeholder en instans af Calculator klassen
 ## Type Casting 
 ### Explicit Cast
 ### Implicit Cast (var variablen)
@@ -111,7 +111,7 @@ ___
 ## Datatypen Enum
 ### Opbygning + Default værdi - kommentar: nævn overfladisk default som koncept.
 ### Tilgå og parsing
-### Tilføj en Enum til GUI, som indeholder de forskellige regnemetoder
+### (OPGAVE 4) Tilføj en Enum til GUI, som indeholder de forskellige regnemetoder
 ## Multi Conditionals
 ### ||
 ### &&
@@ -120,11 +120,11 @@ ___
 #### metoder / expression
 ## Nested Conditionals
 ### Hvornår kaldes de og hvorfor
-## Endelige Opgave
+## (OPGAVE 5) Endelige Opgave
 ### Lav et tjek på input for at se om det er en regnemetode og tjek derefter dets tilhørende enum værdi.
 ### det færdige projekt: -- Indsæt design for det færdige projekts UML
 ### Evt. Manuelle test cases -> 4+6 = 10 etc.
-
+## (OPGAVE 6) Mini-Quiz
 ___
 # Nested Loops
 ## Opbygning
