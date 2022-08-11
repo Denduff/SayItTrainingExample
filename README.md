@@ -30,7 +30,7 @@
  ### for
  ### Kode Opgave for Loops og Collections
  ### foreach  - kort intro
-
+___
 
 
 
@@ -72,7 +72,7 @@
  #### Escape characters
  ## Omskriv Basic Calculator således outputtet benytter string interpolation
  ## Mini-Quiz om emnerne
-
+___
  
  
  
@@ -124,12 +124,9 @@
 ### Lav et tjek på input for at se om det er en regnemetode og tjek derefter dets tilhørende enum værdi.
 ### det færdige projekt: -- Indsæt design for det færdige projekts UML
 ### Evt. Manuelle test cases -> 4+6 = 10 etc.
-## Nested Loops
-### Opbygning
-### Use Cases
-## Rekursion - meget kort eksempel (show() metoden i GUI.cs)
 
-
-
-
-
+___
+# Nested Loops
+## Opbygning
+## Use Cases
+# Rekursion - meget kort eksempel (show() metoden i GUI.cs)
